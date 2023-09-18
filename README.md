@@ -24,13 +24,13 @@
   [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
   [<img align="left" src=images/front-end/js.svg height=30>](https://www.javascript.com/)
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
+
   <br>
   <br>
 
 - **Back End & Cloud Services**
   <br>
   <br>
-  <div style="display:flex; justify-content:">
   [<img align="left" src=images/back-end/node.svg height=30>](https://nodejs.org/en/)
   [<img align="left" src=images/back-end/express.svg height=30>](https://expressjs.com/)
   [<img align="left" src=images/back-end/json.svg height=30>](https://www.json.org/json-en.html)
@@ -40,7 +40,6 @@
   [<img align="left" src=images/cloud/aws.svg height=30>](https://aws.amazon.com/)
   [<img align="left" src=images/cloud/aws-amplify.svg height=30>](https://docs.amplify.aws/)
   [<img align="left" src=images/cloud/firebase.svg height=30>](https://firebase.google.com/)
-  </div>
   <br>
   <br>
 
