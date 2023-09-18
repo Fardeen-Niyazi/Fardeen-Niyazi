@@ -1,16 +1,15 @@
 <h1 align="center">Hey Everyone 👋, I'm Fardeen Niyazi</h1>
 <h3 align="center">I am a dedicated Full Stack Developer, hailing from the vibrant tech scene in India. I find immense joy in crafting innovative web and mobile applications while relentlessly seeking out cutting-edge solutions for complex challenges. My career in corporate IT is a thrilling journey that allows me to blend my passion with my profession, making each day a new opportunity to create and innovate.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fardeen-Niyazi&label=Profile%20views&color=0e75b6&style=flat" alt="Fardeen-Niyazi" /> </p>
 
 <img align="right" alt="Coding" width="400" src="images/banner/coding.gif">
 
 - 🏢 Full Stack Developer at [LogiQuad Solutions Pvt Ltd](https://logiquad.com/).
 - 🌱 I'm currently honing my Full Stack development skills.
-- 🌍 I'm mostly active in the **JavaScript, React JS, React-Native, Next,**.
+- 🌍 I'm mostly active in the **JavaScript, React JS, React-Native, Next JS**.
 - ⚙️ I daily use `.js` `.ts` `.html` `.css` `.json`
 - 💬 Ask me about: **Full Stack development**, **Mobile Developement**.
 - ⚡ Fun fact **I love swimming and anime**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fardeen-Niyazi&label=Profile%20views&color=0e75b6&style=flat" alt="Fardeen-Niyazi" /> </p>
 
 ## Technologies & Tools 🛠️
 
