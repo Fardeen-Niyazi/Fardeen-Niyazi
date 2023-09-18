@@ -19,13 +19,11 @@
   [<img align="left" src=images/front-end/react.svg height=30>](https://reactjs.org/)
   [<img align="left" src=images/front-end/nextjs.svg height=30>](https://nextjs.org/)
   [<img align="left" src=images/front-end/react-native.svg height=30>](https://reactnative.dev/)
-  [<img align="left" src=images/front-end/redux.svg height=30>](https://react-redux.js.org/)
   [<img align="left" src=images/front-end/html-5.svg height=30>](https://www.w3schools.com/html/)
   [<img align="left" src=images/front-end/css-3.svg height=30>](https://www.w3schools.com/css/)
   [<img align="left" src=images/front-end/tailwindcss.svg height=30>](https://tailwindcss.com/)
   [<img align="left" src=images/front-end/js.svg height=30>](https://www.javascript.com/)
   [<img align="left" src=images/front-end/ts.svg height=30>](https://www.typescriptlang.org/)
-  [<img align="left" src=images/front-end/es6.svg height=30>](http://es6-features.org/#Constants)
 
   <br>
   <br>
