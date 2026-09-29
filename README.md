@@ -26,7 +26,7 @@ I enjoy turning ideas and requirements into **scalable, production-ready applica
 
 - 📱 Specialized in **React Native, Expo & cross-platform mobile development**
 - 🌐 Experienced with **React.js, Next.js, TypeScript & JavaScript**
-- ⚙️ Comfortable working with **Node.js, Python, REST APIs & databases**
+- ⚙️ Comfortable working with **Node.js, REST APIs & databases**
 - ☁️ Experience with **Firebase, AWS & AWS Amplify**
 - 🔧 Experienced in **debugging, crash monitoring, performance optimization & production support**
 - 🚀 Interested in **system design, scalable architecture & CI/CD**
@@ -429,7 +429,6 @@ I enjoy turning ideas and requirements into **scalable, production-ready applica
 I'm currently expanding my skills across **mobile, backend, and AI development**.
 
 - 📱 Building production-ready **React Native applications**
-- ⚙️ Exploring **Node.js, Python & FastAPI** for backend development
 - 🤖 Learning **Generative AI, LLMs & Agentic AI**
 - 🧠 Improving my understanding of **system design and scalable architecture**
 - 🔌 Exploring **AI integrations for mobile and web applications**
@@ -442,7 +441,7 @@ I'm currently expanding my skills across **mobile, backend, and AI development**
 ```text
 📱 Mobile Development      → React Native • Expo • Native APIs
 🌐 Frontend Development    → React • Next.js • TypeScript
-⚙️ Backend Development     → Node.js • Python • FastAPI • REST APIs
+⚙️ Backend Development     → Node.js • REST APIs
 ☁️ Cloud & Services        → AWS • Firebase • Amplify
 🤖 AI Development          → LLMs • RAG • AI Agents • GenAI
 🏗️ Engineering             → System Design • Performance • CI/CD
